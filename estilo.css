@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding-left: 25px;
+}
+
+form {
+    margin: 100px 20%;
+}
+
+table {
+    margin: 0 20%;
+}
+
+hr {
+    width: 140%;
+}
+
+body {
+    background: url("./Simple-Background-backgrounds-passion-simple-background-image-PixTeller.png") no-repeat;
+    background-size: cover;
+}
+
+td {
+    padding: 10px;
+}
